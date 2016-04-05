@@ -1,0 +1,10 @@
+info Logging in... 
+info Logged in 
+info Request to reconnect 
+info Request to pull 1 
+info Request to pull 2 
+info Request to thread_sync 
+info Done logging in. 
+info Got answer in  4092
+info Got answer in  631
+^C

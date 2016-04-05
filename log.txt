@@ -1,0 +1,379 @@
+info Logging in... 
+info Logged in 
+info Request to reconnect 
+info Request to pull 1 
+info Request to pull 2 
+info Request to thread_sync 
+info Done logging in. 
+info Got answer in  2197
+info Got answer in  427
+info Got answer in  32896
+info Got answer in  2991
+info Got answer in  705
+info Got answer in  590
+info Got answer in  35872
+info Got answer in  579
+info Got answer in  14433
+info Got answer in  792
+info Got answer in  643
+info Got answer in  25414
+info Got answer in  37243
+info Got answer in  14803
+info Got answer in  50369
+info Got answer in  1143
+info Got answer in  2290
+info Got answer in  12071
+info Got answer in  50446
+info Got answer in  2948
+info Got answer in  2497
+info Got answer in  38249
+info Got answer in  50732
+info Got answer in  35580
+info Got answer in  30917
+info Got answer in  15936
+info Suppressed timeout error. 
+info Got answer in  61769
+info Got answer in  3996
+info Got answer in  533
+info Got answer in  50970
+info Got answer in  27045
+info Got answer in  577
+info Got answer in  18605
+info Got answer in  2183
+info Suppressed timeout error. 
+ERR! ERROR in listen -->  Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443
+ERR! ERROR in listen -->      at errnoException (dns.js:26:10)
+ERR! ERROR in listen -->      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:77:26)
+ERR! ERROR in listen -->   { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+ERR! ERROR in listen -->    cause: 
+ERR! ERROR in listen -->     { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+ERR! ERROR in listen -->       code: 'ENOTFOUND',
+ERR! ERROR in listen -->       errno: 'ENOTFOUND',
+ERR! ERROR in listen -->       syscall: 'getaddrinfo',
+ERR! ERROR in listen -->       hostname: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->       host: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->       port: 443 },
+ERR! ERROR in listen -->    isOperational: true,
+ERR! ERROR in listen -->    code: 'ENOTFOUND',
+ERR! ERROR in listen -->    errno: 'ENOTFOUND',
+ERR! ERROR in listen -->    syscall: 'getaddrinfo',
+ERR! ERROR in listen -->    hostname: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->    host: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->    port: 443 }
+{ [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+  cause: 
+   { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+     code: 'ENOTFOUND',
+     errno: 'ENOTFOUND',
+     syscall: 'getaddrinfo',
+     hostname: '0-edge-chat.facebook.com',
+     host: '0-edge-chat.facebook.com',
+     port: 443 },
+  isOperational: true,
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: '0-edge-chat.facebook.com',
+  host: '0-edge-chat.facebook.com',
+  port: 443 }
+ERR! ERROR in listen -->  Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443
+ERR! ERROR in listen -->      at errnoException (dns.js:26:10)
+ERR! ERROR in listen -->      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:77:26)
+ERR! ERROR in listen -->   { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+ERR! ERROR in listen -->    cause: 
+ERR! ERROR in listen -->     { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+ERR! ERROR in listen -->       code: 'ENOTFOUND',
+ERR! ERROR in listen -->       errno: 'ENOTFOUND',
+ERR! ERROR in listen -->       syscall: 'getaddrinfo',
+ERR! ERROR in listen -->       hostname: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->       host: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->       port: 443 },
+ERR! ERROR in listen -->    isOperational: true,
+ERR! ERROR in listen -->    code: 'ENOTFOUND',
+ERR! ERROR in listen -->    errno: 'ENOTFOUND',
+ERR! ERROR in listen -->    syscall: 'getaddrinfo',
+ERR! ERROR in listen -->    hostname: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->    host: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->    port: 443 }
+{ [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+  cause: 
+   { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+     code: 'ENOTFOUND',
+     errno: 'ENOTFOUND',
+     syscall: 'getaddrinfo',
+     hostname: '0-edge-chat.facebook.com',
+     host: '0-edge-chat.facebook.com',
+     port: 443 },
+  isOperational: true,
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: '0-edge-chat.facebook.com',
+  host: '0-edge-chat.facebook.com',
+  port: 443 }
+ERR! ERROR in listen -->  Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443
+ERR! ERROR in listen -->      at errnoException (dns.js:26:10)
+ERR! ERROR in listen -->      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:77:26)
+ERR! ERROR in listen -->   { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+ERR! ERROR in listen -->    cause: 
+ERR! ERROR in listen -->     { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+ERR! ERROR in listen -->       code: 'ENOTFOUND',
+ERR! ERROR in listen -->       errno: 'ENOTFOUND',
+ERR! ERROR in listen -->       syscall: 'getaddrinfo',
+ERR! ERROR in listen -->       hostname: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->       host: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->       port: 443 },
+ERR! ERROR in listen -->    isOperational: true,
+ERR! ERROR in listen -->    code: 'ENOTFOUND',
+ERR! ERROR in listen -->    errno: 'ENOTFOUND',
+ERR! ERROR in listen -->    syscall: 'getaddrinfo',
+ERR! ERROR in listen -->    hostname: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->    host: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->    port: 443 }
+{ [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+  cause: 
+   { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+     code: 'ENOTFOUND',
+     errno: 'ENOTFOUND',
+     syscall: 'getaddrinfo',
+     hostname: '0-edge-chat.facebook.com',
+     host: '0-edge-chat.facebook.com',
+     port: 443 },
+  isOperational: true,
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: '0-edge-chat.facebook.com',
+  host: '0-edge-chat.facebook.com',
+  port: 443 }
+ERR! ERROR in listen -->  Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443
+ERR! ERROR in listen -->      at errnoException (dns.js:26:10)
+ERR! ERROR in listen -->      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:77:26)
+ERR! ERROR in listen -->   { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+ERR! ERROR in listen -->    cause: 
+ERR! ERROR in listen -->     { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+ERR! ERROR in listen -->       code: 'ENOTFOUND',
+ERR! ERROR in listen -->       errno: 'ENOTFOUND',
+ERR! ERROR in listen -->       syscall: 'getaddrinfo',
+ERR! ERROR in listen -->       hostname: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->       host: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->       port: 443 },
+ERR! ERROR in listen -->    isOperational: true,
+ERR! ERROR in listen -->    code: 'ENOTFOUND',
+ERR! ERROR in listen -->    errno: 'ENOTFOUND',
+ERR! ERROR in listen -->    syscall: 'getaddrinfo',
+ERR! ERROR in listen -->    hostname: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->    host: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->    port: 443 }
+{ [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+  cause: 
+   { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+     code: 'ENOTFOUND',
+     errno: 'ENOTFOUND',
+     syscall: 'getaddrinfo',
+     hostname: '0-edge-chat.facebook.com',
+     host: '0-edge-chat.facebook.com',
+     port: 443 },
+  isOperational: true,
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: '0-edge-chat.facebook.com',
+  host: '0-edge-chat.facebook.com',
+  port: 443 }
+ERR! ERROR in listen -->  Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443
+ERR! ERROR in listen -->      at errnoException (dns.js:26:10)
+ERR! ERROR in listen -->      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:77:26)
+ERR! ERROR in listen -->   { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+ERR! ERROR in listen -->    cause: 
+ERR! ERROR in listen -->     { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+ERR! ERROR in listen -->       code: 'ENOTFOUND',
+ERR! ERROR in listen -->       errno: 'ENOTFOUND',
+ERR! ERROR in listen -->       syscall: 'getaddrinfo',
+ERR! ERROR in listen -->       hostname: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->       host: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->       port: 443 },
+ERR! ERROR in listen -->    isOperational: true,
+ERR! ERROR in listen -->    code: 'ENOTFOUND',
+ERR! ERROR in listen -->    errno: 'ENOTFOUND',
+ERR! ERROR in listen -->    syscall: 'getaddrinfo',
+ERR! ERROR in listen -->    hostname: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->    host: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->    port: 443 }
+{ [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+  cause: 
+   { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+     code: 'ENOTFOUND',
+     errno: 'ENOTFOUND',
+     syscall: 'getaddrinfo',
+     hostname: '0-edge-chat.facebook.com',
+     host: '0-edge-chat.facebook.com',
+     port: 443 },
+  isOperational: true,
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: '0-edge-chat.facebook.com',
+  host: '0-edge-chat.facebook.com',
+  port: 443 }
+ERR! ERROR in listen -->  Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443
+ERR! ERROR in listen -->      at errnoException (dns.js:26:10)
+ERR! ERROR in listen -->      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:77:26)
+ERR! ERROR in listen -->   { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+ERR! ERROR in listen -->    cause: 
+ERR! ERROR in listen -->     { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+ERR! ERROR in listen -->       code: 'ENOTFOUND',
+ERR! ERROR in listen -->       errno: 'ENOTFOUND',
+ERR! ERROR in listen -->       syscall: 'getaddrinfo',
+ERR! ERROR in listen -->       hostname: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->       host: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->       port: 443 },
+ERR! ERROR in listen -->    isOperational: true,
+ERR! ERROR in listen -->    code: 'ENOTFOUND',
+ERR! ERROR in listen -->    errno: 'ENOTFOUND',
+ERR! ERROR in listen -->    syscall: 'getaddrinfo',
+ERR! ERROR in listen -->    hostname: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->    host: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->    port: 443 }
+{ [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+  cause: 
+   { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+     code: 'ENOTFOUND',
+     errno: 'ENOTFOUND',
+     syscall: 'getaddrinfo',
+     hostname: '0-edge-chat.facebook.com',
+     host: '0-edge-chat.facebook.com',
+     port: 443 },
+  isOperational: true,
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: '0-edge-chat.facebook.com',
+  host: '0-edge-chat.facebook.com',
+  port: 443 }
+ERR! ERROR in listen -->  Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443
+ERR! ERROR in listen -->      at errnoException (dns.js:26:10)
+ERR! ERROR in listen -->      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:77:26)
+ERR! ERROR in listen -->   { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+ERR! ERROR in listen -->    cause: 
+ERR! ERROR in listen -->     { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+ERR! ERROR in listen -->       code: 'ENOTFOUND',
+ERR! ERROR in listen -->       errno: 'ENOTFOUND',
+ERR! ERROR in listen -->       syscall: 'getaddrinfo',
+ERR! ERROR in listen -->       hostname: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->       host: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->       port: 443 },
+ERR! ERROR in listen -->    isOperational: true,
+ERR! ERROR in listen -->    code: 'ENOTFOUND',
+ERR! ERROR in listen -->    errno: 'ENOTFOUND',
+ERR! ERROR in listen -->    syscall: 'getaddrinfo',
+ERR! ERROR in listen -->    hostname: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->    host: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->    port: 443 }
+{ [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+  cause: 
+   { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+     code: 'ENOTFOUND',
+     errno: 'ENOTFOUND',
+     syscall: 'getaddrinfo',
+     hostname: '0-edge-chat.facebook.com',
+     host: '0-edge-chat.facebook.com',
+     port: 443 },
+  isOperational: true,
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: '0-edge-chat.facebook.com',
+  host: '0-edge-chat.facebook.com',
+  port: 443 }
+ERR! ERROR in listen -->  Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443
+ERR! ERROR in listen -->      at errnoException (dns.js:26:10)
+ERR! ERROR in listen -->      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:77:26)
+ERR! ERROR in listen -->   { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+ERR! ERROR in listen -->    cause: 
+ERR! ERROR in listen -->     { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+ERR! ERROR in listen -->       code: 'ENOTFOUND',
+ERR! ERROR in listen -->       errno: 'ENOTFOUND',
+ERR! ERROR in listen -->       syscall: 'getaddrinfo',
+ERR! ERROR in listen -->       hostname: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->       host: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->       port: 443 },
+ERR! ERROR in listen -->    isOperational: true,
+ERR! ERROR in listen -->    code: 'ENOTFOUND',
+ERR! ERROR in listen -->    errno: 'ENOTFOUND',
+ERR! ERROR in listen -->    syscall: 'getaddrinfo',
+ERR! ERROR in listen -->    hostname: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->    host: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->    port: 443 }
+{ [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+  cause: 
+   { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+     code: 'ENOTFOUND',
+     errno: 'ENOTFOUND',
+     syscall: 'getaddrinfo',
+     hostname: '0-edge-chat.facebook.com',
+     host: '0-edge-chat.facebook.com',
+     port: 443 },
+  isOperational: true,
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: '0-edge-chat.facebook.com',
+  host: '0-edge-chat.facebook.com',
+  port: 443 }
+ERR! ERROR in listen -->  Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443
+ERR! ERROR in listen -->      at errnoException (dns.js:26:10)
+ERR! ERROR in listen -->      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:77:26)
+ERR! ERROR in listen -->   { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+ERR! ERROR in listen -->    cause: 
+ERR! ERROR in listen -->     { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+ERR! ERROR in listen -->       code: 'ENOTFOUND',
+ERR! ERROR in listen -->       errno: 'ENOTFOUND',
+ERR! ERROR in listen -->       syscall: 'getaddrinfo',
+ERR! ERROR in listen -->       hostname: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->       host: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->       port: 443 },
+ERR! ERROR in listen -->    isOperational: true,
+ERR! ERROR in listen -->    code: 'ENOTFOUND',
+ERR! ERROR in listen -->    errno: 'ENOTFOUND',
+ERR! ERROR in listen -->    syscall: 'getaddrinfo',
+ERR! ERROR in listen -->    hostname: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->    host: '0-edge-chat.facebook.com',
+ERR! ERROR in listen -->    port: 443 }
+{ [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+  cause: 
+   { [Error: getaddrinfo ENOTFOUND 0-edge-chat.facebook.com 0-edge-chat.facebook.com:443]
+     code: 'ENOTFOUND',
+     errno: 'ENOTFOUND',
+     syscall: 'getaddrinfo',
+     hostname: '0-edge-chat.facebook.com',
+     host: '0-edge-chat.facebook.com',
+     port: 443 },
+  isOperational: true,
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: '0-edge-chat.facebook.com',
+  host: '0-edge-chat.facebook.com',
+  port: 443 }
+info Got answer in  178299
+info Got answer in  360
+info Got answer in  14261
+info Got answer in  2507
+info Got answer in  2792
+info Got answer in  15379
+info Got answer in  37039
+info Got answer in  20042
+info Got answer in  50394
+info Got answer in  11386
+info Got answer in  27227
+info Got answer in  6203
+info Got answer in  18223
+info Got answer in  578
+info Got answer in  600
+info Got answer in  30934
+info Got answer in  730
+info Got answer in  26266
+info Got answer in  35922
+info Got answer in  10814
+^C
