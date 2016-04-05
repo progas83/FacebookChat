@@ -104,7 +104,6 @@
     <Compile Include="UserInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="FacebookPy.pfx" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

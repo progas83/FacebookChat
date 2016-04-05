@@ -7,7 +7,7 @@ login({email: "progas@ukr.net", password: "ghjnbdjht4bt"}, function callback (er
 
     var stopListening = api.listen(function(err, event) {
         if(err) return console.error(err);
-console.log("================================================================================================================================================================================================================================================================================================================================================================================================");
+
         switch(event.type) {
           case "message":
             if(event.body === '/stop') {
@@ -17,9 +17,8 @@ console.log("===================================================================
             api.markAsRead(event.threadID, function(err) {
               if(err) console.log(err);
             });
-			console.log("TestSendTestSendTestSendTest++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
             api.sendMessage("TEST BOT: " + event.body, event.threadID);
-            console.log("TestSendTestSendTestSendTestSendTestSendTestSendTestSendTestSendTestSend");
+            event.threadID("TestSendTestSendTestSendTestSendTestSendTestSendTestSendTestSendTestSend");
 			console.log(event.threadID);
 			break;
 			
