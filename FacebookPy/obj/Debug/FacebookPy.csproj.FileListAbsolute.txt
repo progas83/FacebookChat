@@ -1,0 +1,16 @@
+C:\FBActive\FB\FacebookChat\FacebookPy\bin\Debug\FacebookPy.dll
+C:\FBActive\FB\FacebookChat\FacebookPy\bin\Debug\FacebookPy.pdb
+C:\FBActive\FB\FacebookChat\FacebookPy\obj\Debug\FacebookPy.dll
+C:\FBActive\FB\FacebookChat\FacebookPy\obj\Debug\FacebookPy.pdb
+C:\FBActive\FB\FacebookChat\FacebookPy\bin\Debug\Newtonsoft.Json.dll
+C:\FBActive\FB\FacebookChat\FacebookPy\bin\Debug\Newtonsoft.Json.xml
+D:\GitRepository\GWTalk2\gwtalk\FacebookPy\bin\Debug\FacebookPy.dll
+D:\GitRepository\GWTalk2\gwtalk\FacebookPy\bin\Debug\FacebookPy.pdb
+D:\GitRepository\GWTalk2\gwtalk\FacebookPy\bin\Debug\Newtonsoft.Json.dll
+D:\GitRepository\GWTalk2\gwtalk\FacebookPy\bin\Debug\Newtonsoft.Json.xml
+D:\GitRepository\GWTalk2\gwtalk\FacebookPy\obj\Debug\FacebookPy.dll
+D:\GitRepository\GWTalk2\gwtalk\FacebookPy\obj\Debug\FacebookPy.pdb
+D:\GitRepository\GWTalk2\gwtalk\FacebookPy\bin\x86\Debug\FacebookPy.dll
+D:\GitRepository\GWTalk2\gwtalk\FacebookPy\bin\x86\Debug\FacebookPy.pdb
+D:\GitRepository\GWTalk2\gwtalk\FacebookPy\bin\x86\Debug\Newtonsoft.Json.dll
+D:\GitRepository\GWTalk2\gwtalk\FacebookPy\bin\x86\Debug\Newtonsoft.Json.xml
